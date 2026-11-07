@@ -1,0 +1,23 @@
+CuriousStride
+A little clarity. A little structure. One step at a time.
+
+1. Extract this entire ZIP into a folder.
+2. Open index.html in a modern browser (Chrome, Edge, Firefox, or Safari).
+3. Begin anywhere. There is no sign-in or installation.
+
+Keep the css, js, and assets folders beside index.html.
+Your entries save in the browser on this device. Download regular JSON backups
+from "Settings & your data". Do not use a private browsing window for lasting work.
+
+If your browser restricts local-file saving, run the optional Python launcher:
+    python start.py
+Then use http://localhost:8000. Keep using the same address and port.
+The launcher requires Python 3; opening index.html does not.
+
+To move data from the file version to the local-server version (or another
+browser/device), export a backup first and restore it in the new location.
+
+To save a reflection as PDF: open its summary, choose Print / save PDF,
+then choose "Save as PDF" in your browser's print dialog.
+
+See README.md for feature details, hosting, source structure, and testing.
